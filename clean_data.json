@@ -1,0 +1,702 @@
+[
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/22014\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"\u5b81\u786b\ue526?\u03c8\u07d0\u01dd1\u0577v\u06d8\u016f\u0493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\ua3bc\fbca\ue590?\u04f1w:zs\ue62f??n\u08f5yx\u03ac\\\ue4cc???i\u05733\u0446z\ue741^\u001d\u6ff1 \ue03a?\u0195\u0002\u03396t\u0148!f\u060f\u048fx\uf1e6\u0577??\ue493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\u2f2d\u0019~\r\u07db\ue493:\u07d4\u4c84e\u6e8a\u0010??,\r\u043a\ue2ae?\ue699?tb\u06ef\ub49b~k\u9507\u07d7\u20cc\u03c9\u06c0v\u05f6v\u001fl\ue428?\ue2b9?|\u02c2\ue475?\r\u07db\u0019\u07a4\u4dc8\u0012-\u0002\ue475?\r\u07db\ue493:\u07d4\u859c\u001c\u03d4|\u06f0\u7812\u0005??\u0b8c\ue582?x\u0599\u036f\u07ff\u0507v\u4605\u0004d\u4dc2\u0012-\u001c\u04f3?? \u0010\u0440<3\u01e1??\u0001\u056d??9\ue0e2?\ue21c?dw\u0167\u4924w\u001c\u0012-\u53a8\u24f7\ub2fc\u00011';\u6f84\u0577??\ue493:\u07d4\u0a70\u1086\u05c6\u037b \u8916\u001f\u6777\uae76\u06d4\uc9fb\u04ff+\ued99\u0493\u071e\u043ca\uf4be\u001a\u0598q\u0013\u0657\u01d6\u02d7\u016f\u0493:\u07d4\u8d7f\uba1d\u0007\u07f8\u000fd\bs\u5a1b \u0377\u03b7s\u0003c\u01e11\u4f08??\u0209\u001f\u0596 line 42",
+    "content":"in cn.dreamtobe.kpswitch.util.statusbarheightutil.getstatusbarheight number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ee18a961b02d480d123d55?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ee18a961b02d480d123d55?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 00:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/4782\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"k line 40",
+    "content":"in com.q.f.k.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597c0525be077a4dcc497eee?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597c0525be077a4dcc497eee?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 01:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/26550\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"m line 67",
+    "content":"in brf.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a15cdbd61b02d480d06c220?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a15cdbd61b02d480d06c220?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 02:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/15885\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"n line 44",
+    "content":"in com.q.f.n.b number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c0de8fbe077a4dccde7921?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c0de8fbe077a4dccde7921?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 03:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/3096\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"x line 45",
+    "content":"in cn. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5974114ebe077a4dccfca0ac?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5974114ebe077a4dccfca0ac?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 04:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/2543\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"z line 48",
+    "content":"in com.tencent.mm.network.z.ml number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59705f84be077a4dccd6eabf?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59705f84be077a4dccd6eabf?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 05:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/9031\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"b line 249",
+    "content":"in com.q.f.b.c number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59945ed3be077a4dcc2bfe8c?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59945ed3be077a4dcc2bfe8c?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 06:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/19618\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"b line 1365",
+    "content":"in com.q.f.b.l number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d8ebdebe077a4dcce7d9eb?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d8ebdebe077a4dcce7d9eb?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 07:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/33789\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"bk line 113",
+    "content":"in com.tencent.qqlive.ona.utils.bk.<clinit> number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3f8b998cb3c2fa638eedb5?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3f8b998cb3c2fa638eedb5?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 08:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/10591\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"dkn line 67",
+    "content":"in ni.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599f4507be077a4dcc9177da?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599f4507be077a4dcc9177da?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 09:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29498\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"o$b line 100",
+    "content":"in com.qihoo360.mobilesafe.loaded.client.o$b.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a27fec561b02d480dfe484e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a27fec561b02d480dfe484e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 10:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/6564\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"dkn line 1333",
+    "content":"in nu.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5989f36abe077a4dccca603a?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5989f36abe077a4dccca603a?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 11:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/13032\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"dkn line 1341",
+    "content":"in nv.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ae804fbe077a4dcc23d71d?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ae804fbe077a4dcc23d71d?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 12:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/10668\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"dkn line 1611",
+    "content":"in pd.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599fcc3bbe077a4dcc95f5cc?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599fcc3bbe077a4dcc95f5cc?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 13:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/19111\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"act line 98531",
+    "content":"in com.p1.mobile.android.app.act. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d4951bbe077a4dccb8480e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d4951bbe077a4dccb8480e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 14:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29725\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"des.c line 213",
+    "content":"in shuffle_inv number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a291bf761b02d480d0d92e6?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a291bf761b02d480d0d92e6?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 15:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/33175\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"md5.c line 199",
+    "content":"in av_md5_sum number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3c57b78cb3c2fa636693a5?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3c57b78cb3c2fa636693a5?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 16:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/30012\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"dict.c line 206",
+    "content":"in av_dict_free number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2a9be161b02d480d24b6be?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2a9be161b02d480d24b6be?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 17:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34367\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"file.c line 187",
+    "content":"in file_close number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4309428cb3c2fa63b6337b?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4309428cb3c2fa63b6337b?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 18:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/16136\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"aes.java line 25",
+    "content":"in com.immomo.momo.util.aes.<init> number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c28c32be077a4dccf237f5?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c28c32be077a4dccf237f5?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 19:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29332\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"h264.h line 1069",
+    "content":"in ff_h264_decode_mb_cabac number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2784e161b02d480df6e807?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2784e161b02d480df6e807?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 20:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/33294\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"msdocker line 68",
+    "content":"in com.morgoo.droidplugin.hook.c.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3cdf3e8cb3c2fa636d194a?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3cdf3e8cb3c2fa636d194a?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 21:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/30637\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"msdocker line 98",
+    "content":"in com.morgoo.droidplugin.hook.proxy.proxyhook.invoke number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2f6a458cb3c2fa63aeb92f?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2f6a458cb3c2fa63aeb92f?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 22:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/18147\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"recovery line 32",
+    "content":"in com.tencent.recovery.recovery.ef number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ce1e5dbe077a4dcc73edfb?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ce1e5dbe077a4dcc73edfb?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-01 23:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/13176\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"open.java line 33",
+    "content":"in a.li.b number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59af3d97be077a4dcc2bf216?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59af3d97be077a4dcc2bf216?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 00:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/127\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"proguard line 228",
+    "content":"in com.tencent.open.utils.openconfig.c number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5964a4b4be077a4dcc603f0e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5964a4b4be077a4dcc603f0e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 01:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/20914\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"proguard line 355",
+    "content":"in com.tencent.connect.auth.authdialog$loginwebviewclient$1.run number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e46f0661b02d480da753d4?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e46f0661b02d480da753d4?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 02:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/26474\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"step.java line 84",
+    "content":"in com.immomo.momo.statistics.chain.bean.step. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a15073361b02d480df9bba0?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a15073361b02d480df9bba0?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 03:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/32711\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"aacsbr.c line 1199",
+    "content":"in sbr_qmf_analysis number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a39f8df8cb3c2fa634455bf?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a39f8df8cb3c2fa634455bf?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 04:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/12261\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"coded.java line 25",
+    "content":"in com.immomo.momo.util.jni.coded.loadlibrary number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59aa53a1be077a4dccfd7341?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59aa53a1be077a4dccfd7341?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 05:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29791\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"h264_mb.c line 197",
+    "content":"in await_references number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a29532e61b02d480d118f44?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a29532e61b02d480d118f44?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 06:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/16179\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"json.java line 100",
+    "content":"in org.json.json.typemismatch number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c2f5dcbe077a4dccf6f548?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c2f5dcbe077a4dccf6f548?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 07:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/28777\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"proguard line 1775",
+    "content":"in com.trigtech.privateme.service.iactivitymanager$stub$proxy.acquireproviderclient number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a24d45261b02d480dd312ae?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a24d45261b02d480dd312ae?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 08:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/9756\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"user.java line 100",
+    "content":"in com.immomo.momo.service.bean.user. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59999edebe077a4dcc5a2b95?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59999edebe077a4dcc5a2b95?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 09:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/2470\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"user.java line 102",
+    "content":"in com.immomo.momo.service.bean.user. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596fe289be077a4dccd27b7d?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596fe289be077a4dccd27b7d?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 10:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/3533\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"utils.java line 73",
+    "content":"in com.immomo.momodns.utils.utils.getnetworkdes number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5976dbcbbe077a4dcc15d0c8?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5976dbcbbe077a4dcc15d0c8?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 11:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/15844\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"base64.java line 60",
+    "content":"in com.immomo.mmutil.base64.encode number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c091f3be077a4dccdb777e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c091f3be077a4dccdb777e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 12:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34677\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"codec.java line 569",
+    "content":"in com.immomo.momo.util.jni.codec.jxxoo number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a44d0ae8cb3c2fa63cb72eb?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a44d0ae8cb3c2fa63cb72eb?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 13:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34984\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"codec.java line 598",
+    "content":"in com.immomo.momo.util.jni.codec.sortentrys number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4684788cb3c2fa63e0c02b?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4684788cb3c2fa63e0c02b?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 14:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/17847\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"cs$o000ooo line 696",
+    "content":"in com.qgwapp.cs$o000ooo.o000000o number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ccd172be077a4dcc648072?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ccd172be077a4dcc648072?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 15:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/32286\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"frame.java line 200",
+    "content":"in com.d.b.c number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a37c7c88cb3c2fa6325d3da?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a37c7c88cb3c2fa6325d3da?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 16:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/13175\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"group.java line 416",
+    "content":"in com.immomo.momo.group.bean.group.isgameunion number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59af3cbbbe077a4dcc2beb1b?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59af3cbbbe077a4dcc2beb1b?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 17:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34414\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"httpauth.c line 290",
+    "content":"in ff_http_auth_create_response number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a433fcb8cb3c2fa63b84f15?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a433fcb8cb3c2fa63b84f15?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 18:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/18786\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"imjapi.java line 33",
+    "content":"in com.immomo.momo.protocol.imjson.imjapi.setlocation number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d1f61fbe077a4dcc9c50c3?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59d1f61fbe077a4dcc9c50c3?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 19:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/25663\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"imjapi.java line 34",
+    "content":"in com.immomo.momo.protocol.imjson.imjapi.setlocation number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0d478861b02d480d8a35c3?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0d478861b02d480d8a35c3?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 20:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/20572\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"launcherui line 104",
+    "content":"in com.tencent.mm.ui.launcherui.oncreate number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e1640861b02d480d88b963?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e1640861b02d480d88b963?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 21:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/31905\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"locale.cpp line 510",
+    "content":"in ~locale number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3606658cb3c2fa630e857b?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3606658cb3c2fa630e857b?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 22:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/23326\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 93",
+    "content":"in com.immomo.a.e.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f9dddb61b02d480d95421c?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f9dddb61b02d480d95421c?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-02 23:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/2832\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 93",
+    "content":"in com.immomo.http.mmhttp$1.val$finalurladdress number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59720633be077a4dcce98722?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59720633be077a4dcce98722?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 00:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/3491\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"timer.java line 214",
+    "content":"in java.util.timer$timerimpl.run number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597695fdbe077a4dcc13bd8e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597695fdbe077a4dcc13bd8e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 01:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/24971\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"toast.java line 445",
+    "content":"in android.widget.toast$tn.trysendaccessibilityevent number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a06cfa461b02d480d325214?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a06cfa461b02d480d325214?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 02:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/2030\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"user.java line 1033",
+    "content":"in com.immomo.momo.service.bean.user.getbothfollowcount number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596d6536be077a4dccb7a4ba?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596d6536be077a4dccb7a4ba?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 03:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/16581\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"user.java line 2560",
+    "content":"in com.immomo.momo.service.bean.user.setareacode number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c52df8be077a4dcc103fe8?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59c52df8be077a4dcc103fe8?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 04:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/13644\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 4001",
+    "content":"in android.view.view. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59b141bbbe077a4dcc40a3a4?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59b141bbbe077a4dcc40a3a4?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 05:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/10824\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 4383",
+    "content":"in android.view.view.tostring number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a0ca18be077a4dcca04fa9?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a0ca18be077a4dcca04fa9?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 06:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/30033\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 4841",
+    "content":"in android.view.view.saveattributedata number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2ab5a28cb3c2fa636e6bf3?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2ab5a28cb3c2fa636e6bf3?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 07:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/25358\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 5564",
+    "content":"in android.view.view.requestrectangleonscreen number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0a7b7d61b02d480d6232ab?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0a7b7d61b02d480d6232ab?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 08:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34296\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 5612",
+    "content":"in android.view.view.registerpendingframemetricsobservers number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4268d58cb3c2fa63af2ac5?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4268d58cb3c2fa63af2ac5?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 09:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/12519\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 5916",
+    "content":"in android.view.view.sendaccessibilityeventuncheckedinternal number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ac18f4be077a4dcc0dc604?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ac18f4be077a4dcc0dc604?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 10:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/14578\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 6369",
+    "content":"in android.view.view.sendaccessibilityeventuncheckedinternal number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59b757c6be077a4dcc7c0385?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59b757c6be077a4dcc7c0385?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 11:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/21998\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 7829",
+    "content":"in android.view.view.getlocationinsurface number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ee00e661b02d480d10f6fe?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ee00e661b02d480d10f6fe?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 12:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/28995\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 9272",
+    "content":"in android.view.view.getmatrix number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a25c85a61b02d480de096c5?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a25c85a61b02d480de096c5?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 13:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/6052\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"view.java line 9704",
+    "content":"in android.view.view.onvisibilitychanged number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5985fbabbe077a4dcca79f1b?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5985fbabbe077a4dcca79f1b?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 14:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/15795\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"adcheck.java line 65",
+    "content":"in com.huawei.android.hwaps.adcheck.isadcheckenable number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59bfeca4be077a4dccd548d1?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59bfeca4be077a4dccd548d1?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 15:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/4724\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"address.java line 55",
+    "content":"in okhttp3.address. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597b64edbe077a4dcc441aea?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/597b64edbe077a4dcc441aea?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 16:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/24889\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"appapi.java line 359",
+    "content":"in com.immomo.momo.protocol.http.appapi.getappconfigpackage number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a05f12861b02d480d27fb88?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a05f12861b02d480d27fb88?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 17:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/1962\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"appapi.java line 387",
+    "content":"in com.immomo.momo.protocol.http.appapi.getappconfigpackage number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596cd9f8be077a4dccb2b0a0?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/596cd9f8be077a4dccb2b0a0?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 18:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/11171\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"appapi.java line 453",
+    "content":"in com.immomo.momo.protocol.http.appapi.checkfaceanddownload number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a387eebe077a4dccb64c9e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a387eebe077a4dccb64c9e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 19:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/10593\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"appapi.java line 479",
+    "content":"in com.immomo.momo.protocol.http.appapi.checksinlgefaceanddownload number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599f5271be077a4dcc91ec69?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/599f5271be077a4dcc91ec69?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 20:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29637\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"appapi.java line 957",
+    "content":"in com.immomo.momo.protocol.a.d.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a28b22e61b02d480d081d44?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a28b22e61b02d480d081d44?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 21:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/22220\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"basedao.java line 50",
+    "content":"in com.immomo.momo.fullsearch.base.dao.basedao. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f00e6161b02d480d2739d1?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f00e6161b02d480d2739d1?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 22:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34721\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"basedao.java line 91",
+    "content":"in com.immomo.momo.service.daobase.basedao.getlong number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a450ee88cb3c2fa63cf18b9?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a450ee88cb3c2fa63cf18b9?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-03 23:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34833\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"binder.java line 398",
+    "content":"in android.os.binder.exectransact number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a45d6af8cb3c2fa63d795f9?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a45d6af8cb3c2fa63d795f9?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 00:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/29084\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"binder.java line 570",
+    "content":"in android.os.binderproxy.finalize number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a264ec861b02d480de636b2?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a264ec861b02d480de636b2?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 01:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/25340\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"cleaner.java line 42",
+    "content":"in com.immomo.momo.android.service.cleaner.oncreate number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0a57da61b02d480d60b89f?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a0a57da61b02d480d60b89f?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 02:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/33081\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"configs.java line 39",
+    "content":"in com.immomo.molive.foundation.a.<clinit> number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3bc41d8cb3c2fa635e8411?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3bc41d8cb3c2fa635e8411?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 03:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/31700\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"cookie.java line 435",
+    "content":"in e.ae.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3503a18cb3c2fa63013d12?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3503a18cb3c2fa63013d12?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 04:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/21405\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"editor.java line 870",
+    "content":"in android.widget.editor.selectcurrentword number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e8b58e61b02d480dd7a36f?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e8b58e61b02d480dd7a36f?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 05:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/11143\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"fabric.java line 349",
+    "content":"in io.a.a.a.g.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a31da5be077a4dccb36db4?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a31da5be077a4dccb36db4?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 06:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/23201\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"format.java line 511",
+    "content":"in com.google.android.exoplayer2.format.getframeworkmediaformatv16 number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f8972261b02d480d86b9f4?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f8972261b02d480d86b9f4?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 07:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/6848\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"freelinecore line 57",
+    "content":"in com.antfortune.freeline.freelinecore.b number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/598c2fd9be077a4dcce03b53?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/598c2fd9be077a4dcce03b53?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 08:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/34039\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"hostapi.java line 47",
+    "content":"in com.immomo.c.a.f.a number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4112bc8cb3c2fa639ff530?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a4112bc8cb3c2fa639ff530?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 09:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/3346\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"looper.java line 139",
+    "content":"in android.os.looper.loop number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5975ac20be077a4dcc0ad0ec?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5975ac20be077a4dcc0ad0ec?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 10:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/26860\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"looper.java line 205",
+    "content":"in android.os.looper.loop number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a18fc3a61b02d480d36fc95?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a18fc3a61b02d480d36fc95?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 11:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/25229\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmcvjni.java line 13",
+    "content":"in com.momocv.mmcvjni. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a09596761b02d480d5262ff?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a09596761b02d480d5262ff?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 12:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/7246\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmcvjni.java line 14",
+    "content":"in com.momocv.mmcvjni. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/598d20dfbe077a4dccea537e?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/598d20dfbe077a4dccea537e?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 13:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/26365\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmcvjni.java line 15",
+    "content":"in com.momocv.mmcvjni. number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a13d0d561b02d480de615b3?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a13d0d561b02d480de615b3?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 14:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/22575\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmcvjni.java line 29",
+    "content":"in com.momocv.mmcvjni.processvideoframe number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f308af61b02d480d48d04c?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59f308af61b02d480d48d04c?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 15:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/32317\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmcvjni.java line 30",
+    "content":"in com.momocv.mmcvjni.processvideoframe number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a37e3ed8cb3c2fa6327d964?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a37e3ed8cb3c2fa6327d964?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 16:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/24734\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 356",
+    "content":"in com.immomo.http.mmhttp.buildpostrequest number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a046bc161b02d480d127e18?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a046bc161b02d480d127e18?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 17:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/21662\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 417",
+    "content":"in com.immomo.http.mmhttp.buildpostrequest number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59eaf6cd61b02d480df0d594?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59eaf6cd61b02d480df0d594?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 18:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/11416\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 427",
+    "content":"in com.immomo.http.mmhttp.b number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a4e89ebe077a4dccc3ae07?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a4e89ebe077a4dccc3ae07?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 19:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/32719\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 440",
+    "content":"in com.immomo.http.mmhttp$1.val$origin_host number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3a02258cb3c2fa6344caff?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a3a02258cb3c2fa6344caff?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 20:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/30522\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 463",
+    "content":"in com.immomo.http.mmhttp.buildpostrequest number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2e72eb8cb3c2fa63a10990?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/5a2e72eb8cb3c2fa63a10990?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 21:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/11116\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 475",
+    "content":"in com.immomo.http.mmhttp.buildpostrequest number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a2db23be077a4dccb1838d?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59a2db23be077a4dccb1838d?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 22:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/18386\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 514",
+    "content":"in com.immomo.http.mmhttp$1.val$finalurladdress number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59cf4f2cbe077a4dcc8191cd?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59cf4f2cbe077a4dcc8191cd?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-04 23:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/8604\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"mmhttp.java line 519",
+    "content":"in com.immomo.a.f.b number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59928ef0be077a4dcc1a468c?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59928ef0be077a4dcc1a468c?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-05 00:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/12500\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"parcel.java line 321",
+    "content":"in android.os.parcel.obtain number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ac0182be077a4dcc0cc5d1?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59ac0182be077a4dcc0cc5d1?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-05 01:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/21475\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"parcel.java line 638",
+    "content":"in android.os.parcel.writemapinternal number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e974d261b02d480de0027d?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59e974d261b02d480de0027d?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-05 02:00:00"
+  },
+  {
+    "id":"\"https:\/\/github.com\/lstjsuperman\/fabric\/issues\/20309\"",
+    "repo":"lstjsuperman\/fabric",
+    "title":"qqutils.java line 19",
+    "content":"in com.immomo.momo.account.qq.qqutils.isqqinstall number of crashes: 1 impacted devices: 1 there's a lot more information about this crash on crashlytics.com: https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59df3cbc61b02d480d6ff974?utm_medium=service_hooks-github&utm_source=issue_impact https:\/\/fabric.io\/momo6\/android\/apps\/com.immomo.momo\/issues\/59df3cbc61b02d480d6ff974?utm_medium=service_hooks-github&utm_source=issue_impact",
+    "timestamp":"2023-01-05 03:00:00"
+  }
+]

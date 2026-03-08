@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SLACK_001",
+    "author": "dev_bob",
+    "content": "I'm looking into the crash in getstatusbarheight. It seems to be triggered by the new Android 13 update.",
+    "timestamp": "2023-01-05 09:00:00"
+  },
+  {
+    "id": "SLACK_002",
+    "author": "sarah_manager",
+    "content": "Bob, let's prioritize the fix for com.immomo.momo first. That crashlytics report looks bad.",
+    "timestamp": "2023-01-05 09:15:00"
+  },
+  {
+    "id": "SLACK_003",
+    "author": "dev_bob",
+    "content": "Actually, scratch that. I found that getstatusbarheight is just a symptom of a larger issue in statusbarheightutil. I'm moving the fix to next week.",
+    "timestamp": "2023-01-05 14:00:00"
+  },
+  {
+    "id": "SLACK_004",
+    "author": "cto_dave",
+    "content": "Agreed. We are officially delaying the Q1 release for the fabric app until this is resolved.",
+    "timestamp": "2023-01-06 10:00:00"
+  }
+]

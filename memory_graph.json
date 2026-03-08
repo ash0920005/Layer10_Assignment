@@ -1,0 +1,802 @@
+{
+  "entities": {
+    "cn.dreamtobe.kpswitch.util.statusbarheightutil": {
+      "type": "Method",
+      "mentions": 1
+    },
+    "getstatusbarheight": {
+      "type": "Method",
+      "mentions": 3
+    },
+    "crashlytics.com": {
+      "type": "App",
+      "mentions": 19
+    },
+    "fabric.io": {
+      "type": "App",
+      "mentions": 10
+    },
+    "momo6": {
+      "type": "App",
+      "mentions": 13
+    },
+    "com.immomo.momo": {
+      "type": "App",
+      "mentions": 17
+    },
+    "com.q.f.k.a": {
+      "type": "App",
+      "mentions": 4
+    },
+    "brf": {
+      "type": "File",
+      "mentions": 1
+    },
+    "crashes": {
+      "type": "Method",
+      "mentions": 9
+    },
+    "devices": {
+      "type": "Method",
+      "mentions": 6
+    },
+    "github": {
+      "type": "App",
+      "mentions": 14
+    },
+    "momo": {
+      "type": "Person",
+      "mentions": 8
+    },
+    "com.tencent.mm.network.z.ml": {
+      "type": "Method",
+      "mentions": 1
+    },
+    "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/59945ed3be077a4dcc2bfe8c": {
+      "type": "Link",
+      "mentions": 1
+    },
+    "com.tencent.qqlive.ona.utils.bk": {
+      "type": "Method",
+      "mentions": 1
+    },
+    "com.qihoo360.mobilesafe.loaded.client.o$b": {
+      "type": "Method",
+      "mentions": 1
+    },
+    "nv.a": {
+      "type": "File",
+      "mentions": 1
+    },
+    "pd.a": {
+      "type": "File",
+      "mentions": 1
+    },
+    "com.p1.mobile.android.app": {
+      "type": "App",
+      "mentions": 1
+    },
+    "shuffle_inv": {
+      "type": "File",
+      "mentions": 1
+    },
+    "av_md5_sum": {
+      "type": "File",
+      "mentions": 1
+    },
+    "av_dict_free": {
+      "type": "Method",
+      "mentions": 1
+    },
+    "file_close": {
+      "type": "File",
+      "mentions": 1
+    },
+    "android": {
+      "type": "App",
+      "mentions": 1
+    },
+    "Fabric": {
+      "type": "App",
+      "mentions": 1
+    },
+    "Android 13": {
+      "type": "App",
+      "mentions": 1
+    },
+    "Slack": {
+      "type": "Platform",
+      "mentions": 1
+    },
+    "Bob": {
+      "type": "Person",
+      "mentions": 1
+    },
+    "crashlytics": {
+      "type": "File",
+      "mentions": 1
+    },
+    "statusbarheightutil": {
+      "type": "App",
+      "mentions": 1
+    },
+    "next week": {
+      "type": "Time",
+      "mentions": 1
+    }
+  },
+  "claims": [
+    {
+      "subject": "com.q.f.k.a",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/4782",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 01:00:00"
+    },
+    {
+      "subject": "com.q.f.k.a",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/4782",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 01:00:00"
+    },
+    {
+      "subject": "com.q.f.k.a",
+      "predicate": "there's a lot more information about this crash",
+      "object": "on crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/4782",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 01:00:00"
+    },
+    {
+      "subject": "fabric.io",
+      "predicate": "issues",
+      "object": "/momo6/android/apps/com.immomo.momo/issues/597c0525be077a4dcc497eee",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/4782",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 01:00:00"
+    },
+    {
+      "subject": "brf",
+      "predicate": "contains",
+      "object": "number of crashes",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/26550",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 02:00:00"
+    },
+    {
+      "subject": "brf",
+      "predicate": "contains",
+      "object": "1 impacted devices",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/26550",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 02:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "hosts",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/26550",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 02:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "hosts",
+      "object": "github",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/26550",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 02:00:00"
+    },
+    {
+      "subject": "com.q.f.n.b",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/15885",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 03:00:00"
+    },
+    {
+      "subject": "com.q.f.n.b",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/15885",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 03:00:00"
+    },
+    {
+      "subject": "crashes",
+      "predicate": "has information",
+      "object": "there's a lot more information about this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/15885",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 03:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "has information",
+      "object": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/59c0de8fbe077a4dccde7921?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/15885",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 03:00:00"
+    },
+    {
+      "subject": "fabric.io",
+      "predicate": "has information",
+      "object": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/59c0de8fbe077a4dccde7921?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/15885",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 03:00:00"
+    },
+    {
+      "subject": "1",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/3096",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 04:00:00"
+    },
+    {
+      "subject": "1",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/3096",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 04:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "url",
+      "object": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/5974114ebe077a4dccfca0ac?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/3096",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 04:00:00"
+    },
+    {
+      "subject": "com.tencent.mm.network.z.ml",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/2543",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 05:00:00"
+    },
+    {
+      "subject": "com.tencent.mm.network.z.ml",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/2543",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 05:00:00"
+    },
+    {
+      "subject": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/59705f84be077a4dccd6eabf?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "predicate": "has information about",
+      "object": "this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/2543",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 05:00:00"
+    },
+    {
+      "subject": "com.q.f.b.c",
+      "predicate": "impacted",
+      "object": "1 device",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/9031",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 06:00:00"
+    },
+    {
+      "subject": "com.q.f.b.c",
+      "predicate": "has crash",
+      "object": "1 crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/9031",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 06:00:00"
+    },
+    {
+      "subject": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/59945ed3be077a4dcc2bfe8c",
+      "predicate": "contains information",
+      "object": "about this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/9031",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 06:00:00"
+    },
+    {
+      "subject": "com.q.f.b.l",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19618",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 07:00:00"
+    },
+    {
+      "subject": "com.q.f.b.l",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19618",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 07:00:00"
+    },
+    {
+      "subject": "com.tencent.qqlive.ona.utils.bk",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33789",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 08:00:00"
+    },
+    {
+      "subject": "com.tencent.qqlive.ona.utils.bk",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33789",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 08:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "there's a lot more information about this crash on",
+      "object": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/5a3f8b998cb3c2fa638eedb5?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33789",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 08:00:00"
+    },
+    {
+      "subject": "fabric.io",
+      "predicate": "there's a lot more information about this crash on",
+      "object": "https://fabric.io/momo6/android/apps/com.immomo.momo/issues/5a3f8b998cb3c2fa638eedb5?utm_medium=service_hooks-github&utm_source=issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33789",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 08:00:00"
+    },
+    {
+      "subject": "ni.a",
+      "predicate": "has number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10591",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 09:00:00"
+    },
+    {
+      "subject": "ni.a",
+      "predicate": "impacts devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10591",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 09:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "provides information about crash",
+      "object": "this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10591",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 09:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "hosts issues",
+      "object": "599f4507be077a4dcc9177da",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10591",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 09:00:00"
+    },
+    {
+      "subject": "com.qihoo360.mobilesafe.loaded.client.o$b.a",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/29498",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 10:00:00"
+    },
+    {
+      "subject": "com.qihoo360.mobilesafe.loaded.client.o$b.a",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/29498",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 10:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "has information",
+      "object": "about this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/29498",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 10:00:00"
+    },
+    {
+      "subject": "nu.a",
+      "predicate": "has",
+      "object": "crashes",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "nu.a",
+      "predicate": "impacts",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "nu.a",
+      "predicate": "impacts",
+      "object": "devices",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "provides",
+      "object": "information",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "uses",
+      "object": "fabric.io",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "com.immomo.momo",
+      "predicate": "is",
+      "object": "app",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/6564",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 11:00:00"
+    },
+    {
+      "subject": "nv.a",
+      "predicate": "number",
+      "object": "of crashes",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/13032",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 12:00:00"
+    },
+    {
+      "subject": "nv.a",
+      "predicate": "impacted",
+      "object": "devices",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/13032",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 12:00:00"
+    },
+    {
+      "subject": "github",
+      "predicate": "has",
+      "object": "link",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/13032",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 12:00:00"
+    },
+    {
+      "subject": "link",
+      "predicate": "points",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/13032",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 12:00:00"
+    },
+    {
+      "subject": "pd.a",
+      "predicate": "has crashed",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10668",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 13:00:00"
+    },
+    {
+      "subject": "pd.a",
+      "predicate": "impacted",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10668",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 13:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "has information about",
+      "object": "this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10668",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 13:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "uses",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10668",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 13:00:00"
+    },
+    {
+      "subject": "com.immomo.momo",
+      "predicate": "uses",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/10668",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 13:00:00"
+    },
+    {
+      "subject": "com.p1.mobile.android.app",
+      "predicate": "has crash",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19111",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 14:00:00"
+    },
+    {
+      "subject": "com.p1.mobile.android.app",
+      "predicate": "impacts",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19111",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 14:00:00"
+    },
+    {
+      "subject": "com.p1.mobile.android.app",
+      "predicate": "reported on",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19111",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 14:00:00"
+    },
+    {
+      "subject": "com.p1.mobile.android.app",
+      "predicate": "reported on",
+      "object": "fabric.io",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19111",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 14:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "has issue",
+      "object": "59d4951bbe077a4dccb8480e",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/19111",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 14:00:00"
+    },
+    {
+      "subject": "shuffle_inv",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/29725",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 15:00:00"
+    },
+    {
+      "subject": "shuffle_inv",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/29725",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 15:00:00"
+    },
+    {
+      "subject": "av_md5_sum",
+      "predicate": "has number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "av_md5_sum",
+      "predicate": "impacts",
+      "object": "1 device",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "provides information about",
+      "object": "this crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "momo6",
+      "predicate": "hosts",
+      "object": "app",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "com.immomo.momo",
+      "predicate": "is the name of",
+      "object": "app",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "github",
+      "predicate": "hosts",
+      "object": "issue",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/33175",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 16:00:00"
+    },
+    {
+      "subject": "av_dict_free",
+      "predicate": "impacted",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/30012",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 17:00:00"
+    },
+    {
+      "subject": "av_dict_free",
+      "predicate": "number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/30012",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 17:00:00"
+    },
+    {
+      "subject": "av_dict_free",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/30012",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 17:00:00"
+    },
+    {
+      "subject": "file_close",
+      "predicate": "has crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "file_close",
+      "predicate": "impacts devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "file_close",
+      "predicate": "has more information",
+      "object": "crashlytics.com",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "hosts information",
+      "object": "file_close",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "fabric.io",
+      "predicate": "hosts information",
+      "object": "file_close",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "github",
+      "predicate": "hosts information",
+      "object": "momo",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/34367",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 18:00:00"
+    },
+    {
+      "subject": "com.immomo.momo.util.aes",
+      "predicate": "has number of crashes",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "com.immomo.momo.util.aes",
+      "predicate": "impacted devices",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "momo",
+      "predicate": "has crash",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "momo",
+      "predicate": "has impacted device",
+      "object": "1",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "crashlytics.com",
+      "predicate": "provides information",
+      "object": "about the crash",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "github",
+      "predicate": "hosts",
+      "object": "issue_impact",
+      "evidence_url": "https://github.com/lstjsuperman/fabric/issues/16136",
+      "source_type": "github_issue",
+      "timestamp": "2023-01-01 19:00:00"
+    },
+    {
+      "subject": "getstatusbarheight",
+      "predicate": "be triggered by",
+      "object": "the new android 13 update",
+      "evidence_url": "SLACK_001",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-05 09:00:00"
+    },
+    {
+      "subject": "bob",
+      "predicate": "prioritize",
+      "object": "com.immomo.momo",
+      "evidence_url": "SLACK_002",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-05 09:15:00"
+    },
+    {
+      "subject": "getstatusbarheight",
+      "predicate": "is",
+      "object": "symptom of a larger issue",
+      "evidence_url": "SLACK_003",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-05 14:00:00"
+    },
+    {
+      "subject": "statusbarheightutil",
+      "predicate": "has",
+      "object": "issue",
+      "evidence_url": "SLACK_003",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-05 14:00:00"
+    },
+    {
+      "subject": "i",
+      "predicate": "am",
+      "object": "moving the fix to",
+      "evidence_url": "SLACK_003",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-05 14:00:00"
+    },
+    {
+      "subject": "q1 release",
+      "predicate": "delaying",
+      "object": "until this is resolved",
+      "evidence_url": "SLACK_004",
+      "source_type": "slack_message",
+      "timestamp": "2023-01-06 10:00:00"
+    }
+  ]
+}
