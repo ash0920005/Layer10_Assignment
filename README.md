@@ -33,14 +33,12 @@ This system was developed for the **Layer10 Take-Home Project**, focusing on the
 
 ```text
 /Layer10_Memory_Project
-├── scripts/
-│   ├── cleaning_data.py    # Prepares diverse GitHub data from raw CSV
-│   ├── extract_graph.py    # AI Engine: Extraction & Semantic Fusion
-│   ├── query_memory.py     # Retrieval: Fused memory & Conflict resolution
-│   └── visualize_graph.py  # UI: Generates the interactive HTML graph
-├── data/
-│   ├── clean_data.json     # Standardized GitHub artifacts
-│   ├── slack_data.json     # Mock Slack communication logs
-│   └── memory_graph.json   # The final Long-Term Memory store
+├──cleaning_data.py    # Prepares diverse GitHub data from raw CSV
+├──extract_graph.py    # AI Engine: Extraction & Semantic Fusion
+├──query_memory.py     # Retrieval: Fused memory & Conflict resolution
+├──visualize_graph.py  # UI: Generates the interactive HTML graph
+├──clean_data.json     # Standardized GitHub artifacts
+├──slack_data.json     # Mock Slack communication logs
+├──memory_graph.json   # The final Long-Term Memory store
 ├── memory_map.html         # Interactive high-visibility visualization
 └── README.md               # Project documentation
